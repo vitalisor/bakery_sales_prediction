@@ -1,0 +1,22 @@
+- [ ] Daten
+	- [ ] Datensatz joinen
+		- [ ] Heimspiele
+			- [ ] THW-Kiel
+			- [ ] 
+	- [ ] Daten aufbereiten
+		- [ ] Wochentage aus Datum
+		- [ ] Wochenende
+		- [ ] Jahreszeiten
+		- [ ] Wetter gruppieren
+
+- [ ] Folien
+	- [x] Euren Namen auf der Titelseite
+	- [ ] Auflistung und kurze Beschreibung der selbst erstellten Variablen
+	- [ ] Balkendiagramme mit Konfidenzintervallen für zwei selbst erstellte Variablen
+	- [ ] Optimierung des linearen Modells: Modellgleichung und adjusted r²
+	- [ ] Art der Missing Value Imputation
+	- [ ] Optimierung des neuronalen Netzes:
+		- [ ] Source Code zur Definition des neuronalen Netzes
+		- [ ] Darstellung der Loss-Funktionen für Trainings- und Validierungsdatensatz
+		- [ ] MAPEs für den Validierungsdatensatz insgesamt und für jede Warengruppe einzeln
+	- [ ] „Worst Fail“ / „Best Improvement“
