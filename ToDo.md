@@ -1,13 +1,12 @@
 - [ ] Daten
-	- [ ] Datensatz joinen
-		- [ ] Heimspiele
-			- [ ] THW-Kiel
-			- [ ] 
-	- [ ] Daten aufbereiten
-		- [ ] Wochentage aus Datum
-		- [ ] Wochenende
-		- [ ] Jahreszeiten
-		- [ ] Wetter gruppieren
+	- [x] Datensatz joinen
+		- [x] Heimspiele
+			- [x] THW-Kiel 
+	- [x] Daten aufbereiten
+		- [x] Wochentage aus Datum
+		- [x] Wochenende
+		- [x] Jahreszeiten
+		- [x] Wetter gruppieren
 
 - [ ] Folien
 	- [x] Euren Namen auf der Titelseite
