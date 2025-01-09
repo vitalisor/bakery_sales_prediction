@@ -10,7 +10,7 @@
 
 - [ ] [Folien](https://doc.adminforge.de/ZAW_hsmVRiqxr0fRDdm9Cg?edit)
 	- [x] Euren Namen auf der Titelseite
-	- [ ] Auflistung und kurze Beschreibung der selbst erstellten Variablen
+	- [x] Auflistung und kurze Beschreibung der selbst erstellten Variablen
 	- [ ] Balkendiagramme mit Konfidenzintervallen für zwei selbst erstellte Variablen
 	- [ ] Optimierung des linearen Modells: Modellgleichung und adjusted r²
 	- [ ] Art der Missing Value Imputation
