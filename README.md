@@ -34,4 +34,4 @@ Regression
 
 ## Cover Image
 
-![](4_Presentation\images\categories-temp.png)
+![](4_Presentation/images/categories-temp.png)
