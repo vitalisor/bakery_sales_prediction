@@ -14,7 +14,7 @@ Regression, neural network
 
 ### Results Summary
 
--   **Best Model:** [neural network]
+-   **Best Model:** [keras]
 -   **Evaluation Metric:** MAPE
 -   **Result by Category** (Identifier):
     -   **Bread** (1): [22.70]%
