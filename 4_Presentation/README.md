@@ -1,3 +1,3 @@
 # Presentation
 
-**[Slides](4_Presentation/Praesentation-Gruppe10.pdf)**
+**[Slides](4_Presentation/Presentation_version1.pptx)**
