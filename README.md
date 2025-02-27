@@ -34,4 +34,4 @@ Regression, neural network
 
 ## Cover Image
 
-![](4_Presentation/images/categories-temp.png)
+![](CoverImage/Titelbild_1.jpg)
