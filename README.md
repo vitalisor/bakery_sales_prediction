@@ -2,7 +2,7 @@
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name](https://github.com/vitalisor/bakery_sales_prediction)
+[https://github.com/your_username/your_project_name](https://github.com/vitalisor/bakery_sales_prediction)]
 
 ## Description
 
@@ -14,7 +14,7 @@ Regression, neural network
 
 ### Results Summary
 
--   **Best Model:** [keras]
+-   **Best Model:** [neural network]
 -   **Evaluation Metric:** MAPE
 -   **Result by Category** (Identifier):
     -   **Bread** (1): [22.70]%
